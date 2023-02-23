@@ -1,3 +1,3 @@
-![Header]([https://raw.githubusercontent.com/Al-Halaqah/.github/main/halaqah.png])
+<div align="center"> <img src="[https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/repo-header-image.png](https://raw.githubusercontent.com/Al-Halaqah/.github/main/halaqah.png)"> </div>
 <h1 align="center">Islamic programs</h1>
-// https://raw.githubusercontent.com/Al-Halaqah/.github/main/halaqah.png
+
