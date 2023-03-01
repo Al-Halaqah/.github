@@ -1,3 +1,3 @@
 <div align="center"> <img src="https://raw.githubusercontent.com/Al-Halaqah/.github/main/halaqah.png"> </div>
-<h1>Islamic programs</h1>
+<h1align="center">Islamic programs & website</h1>
 
